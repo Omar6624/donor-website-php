@@ -1,0 +1,85 @@
+
+div .form-div
+{
+    background-color: rgb(255, 255, 255);
+}
+.n-div
+{
+    background-image: linear-gradient(to right, rgb(237, 240, 187) , rgb(207, 216, 151));
+}
+
+
+div.main-div
+{
+    margin-top: .3%;
+    margin-bottom: .5%;
+}
+
+div.another-div 
+{
+  margin: auto;
+  width: 80%;
+  
+ 
+  padding: 10px;
+}
+div.r-div
+{
+  margin: auto;
+  width: 80%;
+  padding-left: 6px;
+
+}
+div.carousel-div
+{
+    padding-top:.6%;
+    padding-bottom:.4%;
+    margin: auto;
+   
+    
+
+}
+
+div.fot-link
+{
+    text-align: center;
+}
+div.d-div{
+    margin-left: 20%;
+}
+.l-div
+{
+    
+    text-decoration: underline;
+    color: black;
+}
+.l-div:hover
+{
+    color: rgb(243, 14, 52);
+}
+
+.git-div
+{
+    margin-left: 15px;
+}
+input[type=text],select,textarea,input[type=password],input[type=email]
+{
+  width: 100%;
+  padding: 15px;
+  border: 2px solid rgb(122, 122, 122);
+  border-radius: 20px;
+
+  
+}
+label {
+    padding: 12px 12px 12px 0;
+    display: inline-block;
+  }
+
+.btn-div{
+    width: 50%;
+    border-radius: 4px;
+    margin:auto;
+
+}
+

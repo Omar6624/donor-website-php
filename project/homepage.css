@@ -1,0 +1,105 @@
+a
+{
+	text-decoration: none;
+	color:white;
+}
+
+
+.navbar ul li:hover
+{
+	background-color: #808080;
+    width: auto;
+}
+
+
+.home
+{
+	background: url(pic/bg1.jpg) no-repeat center center fixed;
+	display:table;
+	height:60vh;
+	width:100%;
+	position: relative;
+	background-size:cover;
+}
+.landing-text
+{
+	display:table-cell;
+	vertical-align:middle;
+}
+#img1{
+	background: url(pic/bg14.jpg);
+	display:table;
+	height:100vh;
+	width:100%;
+	position: relative;
+	background-size:cover;
+	
+}
+#developers
+{
+	position: relative;
+}
+.font
+{
+	font-family: 'Kanit', sans-serif;
+	font-family: 'Lobster', cursive;
+	font-family: 'Lobster Two', cursive;
+}
+.font2
+{
+	font-family: 'Cormorant Garamond', serif;
+	font-family: 'Eczar', serif;
+	font-family: 'Kanit', sans-serif;
+	font-family: 'Lobster', cursive;
+	font-family: 'Lobster Two', cursive;
+	font-family: 'Proza Libre', sans-serif;
+}
+.font3
+{
+	font-family: 'Cormorant Garamond', serif;
+	font-family: 'Eczar', serif;
+	font-family: 'Kanit', sans-serif;
+	font-family: 'Lobster', cursive;
+	font-family: 'Lobster Two', cursive;
+	font-family: 'Proza Libre', sans-serif;
+	font-family: 'Tiro Kannada', serif;
+}
+.card{
+	height:100%;
+	width: auto;
+	padding: 2%;
+	gap: 5px;
+}
+img{
+	padding: 5px;
+	
+}
+ 
+.new-div{
+	width: auto;
+	height: auto;
+	background-color: #fff9f9;
+	border: 2px solid rgb(123, 20, 20);
+	border-radius: 5px;
+	margin: auto;
+	padding-bottom: 2%;
+	
+}
+.im{
+	width: 100%;
+	height: auto;
+	padding: 0px!important;
+}
+.pd{
+	font-family: 'Kanit', sans-serif;
+	font-size: 35px;
+	text-align: center;
+
+}
+.btn-d{
+	width:100% ;
+	margin: auto;
+	margin-bottom: 5px;
+	border: 1px solid rgb(8, 255, 4);
+	
+}

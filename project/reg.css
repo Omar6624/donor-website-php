@@ -1,0 +1,103 @@
+body{
+    display:block;
+    align-items: center;
+    background-image: linear-gradient(to bottom right,rgb(255, 255, 255),rgb(255, 228, 219) ,rgb(255, 224, 218),rgb(255, 158, 158),rgb(255, 2, 2) );
+    
+}
+
+.row
+{
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    margin: .8%;
+
+    
+
+}
+
+input[type=text],select,textarea,input[type=password],input[type=email]::after
+{
+  width: 80%;
+  padding: 5px;
+  border: 2px solid rgb(72, 72, 72);
+  border-radius: 10px;
+  padding-bottom: 4%;
+  
+  
+  box-shadow: 4px 2px 5px 0 rgba(0,0,0,0.6);
+  font-size: large;
+
+  
+}
+.font{
+    font-family: 'Kanit', sans-serif;
+	font-family: 'Lobster', cursive;
+	font-family: 'Lobster Two', cursive;
+    color: rgb(255, 255, 255);
+    font-size: larger;
+   
+    
+}
+label,h2{
+    font-family:cursive;
+    font-size: large;
+    color: rgb(255, 26, 26);
+    padding-left: 15%;
+    padding-top: 6%;
+    
+
+
+
+}
+.name-div{
+    width: 100% !important;
+    
+}
+
+.card
+{
+    margin: 3%;
+    
+    box-shadow: 5px 9px 14px 6px rgba(0,0,0,0.6);
+    border-radius: 60px;
+    border-collapse: separate; 
+    padding-bottom: 5%;
+
+    
+
+   
+ 
+
+}
+button[type=submit]
+{
+    border-radius: 20px;
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(175, 21, 32);
+    color: rgb(238, 238, 238);
+    border: 1px solid rgb(184, 4, 4);
+   
+
+
+}
+button[type=submit]:hover
+{
+    border-radius: 20px;
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(255, 0, 17);
+    color: rgb(238, 238, 238);
+    box-shadow: 5px 9px 14px 0 rgba(0,0,0,0.6);
+    
+    
+   
+
+
+}
+
